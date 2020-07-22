@@ -1,1 +1,10 @@
 
+address = "Kortrijksebaan 57, 3220 Holsbeek"
+address = "Kortrijksebaan 75, 3220 Holsbeek"
+address = "Zomerlei 13, 2650 Edegem"
+address = "Benedenstraat 6, 3220 Holsbeek"
+address = "Sint-Pietersvliet 7, 2000 Antwerpen"
+address = "Pareloesterlaan 15, 8400 Oostende"
+address = "kruisveldweg 8, 2500 Lier"
+address = "Kardinaal Mercierlaan 50, 3001 Leuven"
+address = "BELLEMANSHEIDE 78J 1640 SINT-GENESIUS-RODE
